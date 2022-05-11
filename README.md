@@ -2,7 +2,7 @@
 This website allows users to send ideas/suggestions to your discord server and database.
 
 # What is this repoository?
-- This repository is a website which interacts with its API to send a suggestion to a discord server. The API (Server) will also add the users IP to a 'logged_users' table inside the database, This IP will be hashed in md5, This is to prevent abuse of the API and to secure a users IP.
+- This repository is a website which interacts with its API to send a suggestion to a discord server. The API (Server) will also add the users IP to a 'logged_users' table inside the database, This IP will be hashed in md5, This is to prevent abuse of the API (Spamming suggestions).
 
 # Downloads and Requirements
 ### Discord Requirement(s)
